@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://avixeile.github.io/WuF/sitemap_index.txt
+Sitemap: https://avixeile.github.io/iXv/sitemap_index.txt
+Sitemap: https://avixeile.github.io/rlZ/sitemap_index.txt
+Sitemap: https://avixeile.github.io/tUH/sitemap_index.txt
